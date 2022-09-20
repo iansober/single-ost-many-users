@@ -13,7 +13,7 @@ For example, you have a shared workstation used by your technical service. They 
 
 ![Schema](schema.drawio.png)
 
-## How does it works?
+## How does it work?
 
 The script works according to that algorithm:
 
