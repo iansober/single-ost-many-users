@@ -1,6 +1,3 @@
-# Copyright 2022 Ian Oberemko
-# Licensed under the Apache License, Version 2.0
-
 $AccessRecords = New-Object System.Collections.Generic.List[System.Object]
 
 $Destination = Read-Host 'Enter destination path: '
